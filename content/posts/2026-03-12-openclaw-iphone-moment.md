@@ -5,6 +5,12 @@ draft = false
 description = '从协作方式、落地流程和生态成熟度，聊聊 OpenClaw 为什么接近 AI 时代的 iPhone 时刻。'
 +++
 
+<audio controls preload="none" src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep006-openclaw-iphone-moment.mp3">
+  你的浏览器不支持 audio，请点击下方链接播放。
+</audio>
+
+备用播放链接：<https://tangkk.github.io/lobster-headlines-podcast/audio/ep006-openclaw-iphone-moment.mp3>
+
 今天我们聊一个特别值得认真想的问题：
 
 **OpenClaw 的出现，会不会是 AI 时代的 iPhone 时刻？**
