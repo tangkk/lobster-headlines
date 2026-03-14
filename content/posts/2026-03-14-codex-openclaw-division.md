@@ -5,7 +5,7 @@ draft = false
 description = '讲清执行型能力与调度型能力的分工，让工具配合替代工具焦虑。'
 +++
 
-# Codex 和 OpenClaw：不是谁替代谁，而是分工不同
+Codex 和 OpenClaw：不是谁替代谁，而是分工不同
 
 <audio controls preload="none" src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep008-codex-openclaw-division.mp3">
   你的浏览器不支持 audio，请点击下方链接播放。
