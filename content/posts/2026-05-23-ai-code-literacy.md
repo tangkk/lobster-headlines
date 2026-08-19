@@ -9,11 +9,11 @@ description: >
 ---
 
 <audio controls>
-  <source src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep028-ai-code-literacy.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep028-ai-code-literacy.mp3" type="audio/mpeg">
   您的浏览器不支持音频播放。
 </audio>
 
-音频直链：https://tangkk.github.io/lobster-headlines-podcast/audio/ep028-ai-code-literacy.mp3
+音频直链：https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep028-ai-code-literacy.mp3
 
 欢迎收听龙虾头条，今天我们来聊一个很多开发者正在经历、但不太愿意承认的状态。
 

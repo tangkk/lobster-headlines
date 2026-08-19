@@ -6,11 +6,11 @@ description: "AI 公司帮企业省掉的每一块钱人力成本，原本都是
 ---
 
 <audio controls>
-  <source src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep025-ai-dollar-paradox.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep025-ai-dollar-paradox.mp3" type="audio/mpeg">
   您的浏览器不支持音频播放。
 </audio>
 
-备用播放链接：https://tangkk.github.io/lobster-headlines-podcast/audio/ep025-ai-dollar-paradox.mp3
+备用播放链接：https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep025-ai-dollar-paradox.mp3
 
 ---
 

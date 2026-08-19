@@ -6,9 +6,9 @@ description: >
   AI 时代，答案越来越便宜，但问题越来越贵。这一期聊的不是 prompt engineering，而是更深一层的能力——你能不能问出一个真正对的问题。从改简历、提效到人生焦虑，好问题和表面问题的差距，决定了你从 AI 那里拿走的是敷衍还是洞见。
 ---
 
-<p><audio controls preload="metadata"><source src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep027-asking-better-questions.mp3" type="audio/mpeg"></audio></p>
+<p><audio controls preload="metadata"><source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep027-asking-better-questions.mp3" type="audio/mpeg"></audio></p>
 
-[📥 直接下载音频](https://tangkk.github.io/lobster-headlines-podcast/audio/ep027-asking-better-questions.mp3)
+[📥 直接下载音频](https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep027-asking-better-questions.mp3)
 
 ***
 

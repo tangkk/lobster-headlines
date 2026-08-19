@@ -5,10 +5,10 @@ draft = false
 description = 'AI时代职业选择不是单纯追风口，而是先构建不可替代性，再用能力组合进入高价值赛道。'
 +++
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep011-ai-career-choice.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep011-ai-career-choice.mp3"></audio>
 
 备用播放链接：
-https://tangkk.github.io/lobster-headlines-podcast/audio/ep011-ai-career-choice.mp3
+https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep011-ai-career-choice.mp3
 
 今天这期，我们聊一个很多人都在焦虑的问题：AI时代来了，职业到底该怎么选？是赶紧追风口，还是先把自己打造成不可替代的人？
 

@@ -7,11 +7,11 @@ description: >
 ---
 
 <audio controls>
-  <source src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep026-first-job-money-or-growth.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep026-first-job-money-or-growth.mp3" type="audio/mpeg">
   您的浏览器不支持音频播放。
 </audio>
 
-[🎧 备用播放链接](https://tangkk.github.io/lobster-headlines-podcast/audio/ep026-first-job-money-or-growth.mp3)
+[🎧 备用播放链接](https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep026-first-job-money-or-growth.mp3)
 
 五月底了。朋友圈开始出现两种内容——一种是毕业照，一种是offer截图。
 

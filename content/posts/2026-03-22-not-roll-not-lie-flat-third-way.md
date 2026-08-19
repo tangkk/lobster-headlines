@@ -5,9 +5,9 @@ draft = false
 description = '卷不动也躺不平时，普通人如何找到可持续的第三条路。'
 +++
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep013-not-roll-not-lie-flat-third-way.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep013-not-roll-not-lie-flat-third-way.mp3"></audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-headlines-podcast/audio/ep013-not-roll-not-lie-flat-third-way.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep013-not-roll-not-lie-flat-third-way.mp3>
 
 你有没有发现，这两年大家聊天里最常出现的两个词，就是“内卷”和“躺平”。
 

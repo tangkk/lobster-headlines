@@ -5,9 +5,9 @@ draft: false
 description: "人工智能越来越能干之后，打工人最先失去的，也许不是工作本身，而是岗位中那些最标准化、最容易被流程化的部分。"
 ---
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep019-ai-job-boundary.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep019-ai-job-boundary.mp3"></audio>
 
-备用播放链接：https://tangkk.github.io/lobster-headlines-podcast/audio/ep019-ai-job-boundary.mp3
+备用播放链接：https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep019-ai-job-boundary.mp3
 
 这两年，关于人工智能最常见的一种讨论，就是它到底会不会抢工作。
 

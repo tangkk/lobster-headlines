@@ -5,10 +5,10 @@ draft: false
 description: "从触发层到闸门层，拆解一套可复用、可迭代的内容SOP，让更新节奏从看状态变成按流程产出。"
 ---
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep009-content-sop-automation-practice.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep009-content-sop-automation-practice.mp3"></audio>
 
 备用播放链接：
-https://tangkk.github.io/lobster-headlines-podcast/audio/ep009-content-sop-automation-practice.mp3
+https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep009-content-sop-automation-practice.mp3
 
 做内容这件事，很多人都经历过同一种循环：
 有灵感的时候连更几天，没状态的时候停更一阵。

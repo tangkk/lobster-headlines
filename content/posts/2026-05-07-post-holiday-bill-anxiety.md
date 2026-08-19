@@ -6,10 +6,10 @@ description: "假期消费热退潮后的账单焦虑——不是买不起，是
 ---
 
 <audio controls>
-  <source src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep022-post-holiday-bill-anxiety.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep022-post-holiday-bill-anxiety.mp3" type="audio/mpeg">
 </audio>
 
-> 备用播放：[点击收听](https://tangkk.github.io/lobster-headlines-podcast/audio/ep022-post-holiday-bill-anxiety.mp3)
+> 备用播放：[点击收听](https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep022-post-holiday-bill-anxiety.mp3)
 
 大家好，欢迎收听龙虾头条。
 

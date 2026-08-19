@@ -5,9 +5,9 @@ draft: false
 description: "《龙虾头条》第十七期。聊聊线下社群回暖背后的社会情绪与真实连接。"
 ---
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep017-familiar-society-offline-community-revival.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep017-familiar-society-offline-community-revival.mp3"></audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-headlines-podcast/audio/ep017-familiar-society-offline-community-revival.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep017-familiar-society-offline-community-revival.mp3>
 
 你有没有发现，这两年，很多人嘴上说“我不爱社交”，但周末却在认真找组织：跑团、飞盘、骑行、桌游、读书会、徒步群、羽毛球搭子局……
 最有意思的是，这些关系，不完全是“朋友”，也不是“陌生人”，它有一种介于两者之间的新状态：有共同节奏的熟人。

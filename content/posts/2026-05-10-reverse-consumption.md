@@ -6,10 +6,10 @@ description: "从演唱会一掷千金到九块九会员到处借——消费行
 ---
 
 <audio controls preload="metadata">
-  <source src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep023-reverse-consumption.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep023-reverse-consumption.mp3" type="audio/mpeg">
 </audio>
 
-备用播放链接：[点击播放](https://tangkk.github.io/lobster-headlines-podcast/audio/ep023-reverse-consumption.mp3)
+备用播放链接：[点击播放](https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep023-reverse-consumption.mp3)
 
 欢迎收听龙虾头条，我是你的播客朋友。五一假期过去刚好一周，朋友们陆续回到了各自的工位和课桌前，朋友圈也从景区打卡切换回了日常吐槽。但有一个现象，在这一周里反复出现在我的时间线上。
 

@@ -5,9 +5,9 @@ draft: false
 description: "《龙虾头条》第十八期。聊聊演唱会抢票焦虑背后的规则、信任与公平。"
 ---
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep018-concert-ticketing-system-true-fans.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep018-concert-ticketing-system-true-fans.mp3"></audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-headlines-podcast/audio/ep018-concert-ticketing-system-true-fans.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep018-concert-ticketing-system-true-fans.mp3>
 
 你有没有发现，这两年看演唱会，最难的已经不是请假，不是坐高铁，也不是酒店涨价，而是第一步：抢票。很多人守着开票倒计时，网速拉满，闹钟拉满，朋友群里分工合作，结果页面一转，票就没了。几分钟后，二级平台上却冒出一堆“现票”，价格往上翻。你会很自然地怀疑：系统到底是在防黄牛，还是在劝退真粉？
 

@@ -5,10 +5,10 @@ draft: false
 description: "工作和生活很难绝对平衡，但可以通过边界管理，避免长期失衡，把生活一点点拿回来。"
 ---
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep010-work-life-balance.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep010-work-life-balance.mp3"></audio>
 
 备用播放链接：
-https://tangkk.github.io/lobster-headlines-podcast/audio/ep010-work-life-balance.mp3
+https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep010-work-life-balance.mp3
 
 很多人都在问一个问题：工作和生活，真的能平衡吗？
 

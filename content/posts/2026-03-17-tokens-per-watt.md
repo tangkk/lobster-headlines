@@ -5,11 +5,11 @@ draft = false
 description = '围绕 GTC 二零二六演讲中的单一主轴 tokens per watt 展开，讨论它为何成为人工智能基础设施竞争的关键计量指标。'
 +++
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep012-tokens-per-watt.mp3">
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep012-tokens-per-watt.mp3">
   你的浏览器不支持 audio，请点击下方链接播放。
 </audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-headlines-podcast/audio/ep012-tokens-per-watt.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep012-tokens-per-watt.mp3>
 
 今天这期，我们只讲一个词：tokens per watt。
 如果只用一个指标来理解黄仁勋在 GTC 二零二六的核心逻辑，我会选它。

@@ -5,9 +5,9 @@ draft: false
 description: "《龙虾头条》第十六期。聊聊第三空间为什么在城市里越来越稀缺，以及它如何影响我们交朋友。"
 ---
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep016-third-space-fewer-friends.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep016-third-space-fewer-friends.mp3"></audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-headlines-podcast/audio/ep016-third-space-fewer-friends.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep016-third-space-fewer-friends.mp3>
 
 你有没有这种感觉——
 我们每天都在“见人”，但真正能说上几句心里话的人，反而越来越少。

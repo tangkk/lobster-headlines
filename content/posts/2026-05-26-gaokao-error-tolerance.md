@@ -7,10 +7,10 @@ description: >
 ---
 
 <audio controls>
-  <source src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep029-gaokao-error-tolerance.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep029-gaokao-error-tolerance.mp3" type="audio/mpeg">
 </audio>
 
-备用播放链接：https://tangkk.github.io/lobster-headlines-podcast/audio/ep029-gaokao-error-tolerance.mp3
+备用播放链接：https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep029-gaokao-error-tolerance.mp3
 
 哈喽大家好，欢迎来到龙虾头条。
 

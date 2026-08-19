@@ -7,11 +7,11 @@ description = '讲清执行型能力与调度型能力的分工，让工具配�
 
 Codex 和 OpenClaw：不是谁替代谁，而是分工不同
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-headlines-podcast/audio/ep008-codex-openclaw-division.mp3">
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep008-codex-openclaw-division.mp3">
   你的浏览器不支持 audio，请点击下方链接播放。
 </audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-headlines-podcast/audio/ep008-codex-openclaw-division.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep008-codex-openclaw-division.mp3>
 
 你有没有过这种体验：
 打开 Codex，感觉它写代码真的很猛；

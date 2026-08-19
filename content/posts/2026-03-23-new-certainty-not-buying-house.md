@@ -5,12 +5,12 @@ draft: false
 description: "聊聊年轻人为何用流动能力替代单一资产，去买另一种确定性。"
 ---
 
-<audio controls preload="none" src="https://raw.githubusercontent.com/tangkk/lobster-headlines-podcast/main/audio/ep015-new-certainty-not-buying-house.mp3">
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep015-new-certainty-not-buying-house.mp3">
   你的浏览器不支持 audio 标签。
 </audio>
 
 备用播放链接：
-https://raw.githubusercontent.com/tangkk/lobster-headlines-podcast/main/audio/ep015-new-certainty-not-buying-house.mp3
+https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/headlines/ep015-new-certainty-not-buying-house.mp3
 
 这两年，关于年轻人的一句话特别流行：不买房了，躺平了，不想负责了。
 但如果你认真看一眼身边的人，会发现真相可能正好相反——很多人不是不要安稳，而是在换一种方式，去买安稳。
